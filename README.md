@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQGWbOxNWvqDKg/article-cover_image-shrink_720_1280/0/1677834094489?e=1710979200&v=beta&t=ao4JcyIGSh5ymxw6nJYLqBITwQjrxQo1N4jgYt6WUg0)
+![MasterHead](https://media.licdn.com/dms/image/D4E12AQGaE5s_aF3E6g/article-cover_image-shrink_423_752/0/1683888894300?e=1710979200&v=beta&t=c7wVuBXRYIq9NUCs75yr0HO1isC_iGdz9dizDULrZ_0)
 <h1 align="center">Hi 👋, I'm Pawan Joshi</h1>
 <h3 align="center">A final year Computer Science student with a strong interest in AI/ML and Data Science technologies. Actively seeking new opportunities in tech, I'm passionate about leveraging technology to make a positive impact on the world, one line of code and insightful lesson at a time.</h3>
 <img align="right" alt="Coding" width="400" src ="https://qbytes.in/wp-content/uploads/2022/02/home.gif">
