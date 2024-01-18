@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D4D12AQGWbOxNWvqDKg/article-cover_image-shrink_720_1280/0/1677834094489?e=1710979200&v=beta&t=ao4JcyIGSh5ymxw6nJYLqBITwQjrxQo1N4jgYt6WUg0))]
 <h1 align="center">Hi 👋, I'm Pawan Joshi</h1>
 <h3 align="center">A final year Computer Science student with a strong interest in AI/ML and Data Science technologies. Actively seeking new opportunities in tech, I'm passionate about leveraging technology to make a positive impact on the world, one line of code and insightful lesson at a time.</h3>
 <img align="right" alt="Coding" width="400" src ="https://qbytes.in/wp-content/uploads/2022/02/home.gif">
