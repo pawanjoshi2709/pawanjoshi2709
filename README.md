@@ -3,7 +3,7 @@
 <h3 align="center">A final year Computer Science student with a strong interest in AI/ML and Data Science technologies. Actively seeking new opportunities in tech, I'm passionate about leveraging technology to make a positive impact on the world, one line of code and insightful lesson at a time.</h3>
 <img align="right" alt="Coding" width="400" src ="https://qbytes.in/wp-content/uploads/2022/02/home.gif">
 
-- 🌱 I’m currently learning **NLP(Natural Language Processing).**
+- 🌱 I’m currently learning **Agentic AI.**
 
 - 💬 Ask me about **Python, ML, Deep Learning, Computer Vision.**
 
