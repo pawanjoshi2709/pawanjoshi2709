@@ -1,6 +1,6 @@
 ![MasterHead](http://uat.cavendish.ac.ug/wp-content/uploads/2017/05/Cavendish-Uganda-Computer-Science.jpg)
 <h1 align="center">Hi 👋, I'm Pawan Joshi</h1>
-<h3 align="center">A final year Computer Science student with a strong interest in AI/ML and Data Science technologies. Actively seeking new opportunities in tech, I'm passionate about leveraging technology to make a positive impact on the world, one line of code and insightful lesson at a time.</h3>
+<h3 align="center">I transform complex data into actionable insights using predictive analytics and agentic AI systems. Focused on building intelligent, practical solutions that unlock business value and drive better decisions.</h3>
 <img align="right" alt="Coding" width="400" src ="https://qbytes.in/wp-content/uploads/2022/02/home.gif">
 
 - 🌱 I’m currently learning **Agentic AI.**
